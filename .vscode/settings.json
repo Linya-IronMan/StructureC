@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.vue": "vue",
+    "*.template": "html",
+    "*.ts": "typescript",
+    "*.html": "html",
+    "*.jsx": "javascriptreact",
+    "limits": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
