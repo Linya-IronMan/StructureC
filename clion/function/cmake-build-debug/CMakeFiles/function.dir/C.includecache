@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/linya/Code/StructureC/clion/function/func.c
+func.h
+/Users/linya/Code/StructureC/clion/function/func.h
+
+/Users/linya/Code/StructureC/clion/function/func.h
+stdio.h
+-
+stdio.h
+-
+
+/Users/linya/Code/StructureC/clion/function/main.c
+func.h
+/Users/linya/Code/StructureC/clion/function/func.h
+

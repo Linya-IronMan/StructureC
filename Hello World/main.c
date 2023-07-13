@@ -5,9 +5,10 @@
 int main()
 {
 
-  int a = 5;
-  int b = 500;
+  int a = 123;
   printf("number:%2d, score\n", a);
-  printf("number:%2d, score\n", b);
+  printf("%o\n", a); // 8 进制
+  printf("%x\n", a); // 16 进制
+
   return 0;
 }

@@ -1,0 +1,3 @@
+/Users/linya/Code/StructureC/clion/function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/linya/Code/StructureC/clion/function/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/linya/Code/StructureC/clion/function/cmake-build-debug/CMakeFiles/function.dir
